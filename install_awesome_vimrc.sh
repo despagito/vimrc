@@ -11,6 +11,7 @@ source ~/.vim_runtime/vimrcs/plugins_config.vim
 source ~/.vim_runtime/vimrcs/extended.vim
 
 set nu
+set cursorline
 
 try
 source ~/.vim_runtime/my_configs.vim
