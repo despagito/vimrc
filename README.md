@@ -1,7 +1,16 @@
-# Purpose of this Project
+# About This Project
+
+## Purpose of This Project
 
 - Learn more about vim by all kinds of test.
-- 
+- Offer a stable vim config to use.
+
+## Todo
+
+- What's the difference between vim and vi? pros and cons and suitable scenarios?
+- What's the difference between vim and emacs?
+
+
 
 
 # The Ultimate vimrc
@@ -36,13 +45,6 @@ I also recommend using (it's a free and awesome font designed for source code). 
 
 - recommend font: [the Hack font](http://sourcefoundry.org/hack/) 
 - install in windows: [msysgit](http://msysgit.github.com/)
-
-
-
-## Todo
-
-- What's the difference between vim and vi? pros and cons and suitable scenarios?
-- What's the difference between vim and emacs?
 
 
 
