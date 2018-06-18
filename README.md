@@ -7,7 +7,7 @@
 
 ## Todo
 
-- add TOC plugin
+- add markdown TOC plugin.(not a good idea to write md with vim,not as convienient as VSCode)
 - What's the difference between vim and vi? pros and cons and suitable scenarios?
 - What's the difference between vim and emacs?
 
